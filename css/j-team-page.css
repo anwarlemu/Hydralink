@@ -61,8 +61,15 @@ p {
 			background-image: url("../img/l-bg-m.jpg");
 			background-size: 200%;
 	   		background-position-x: center;
-   			background-position-y: 209px;
+   			background-position-y: -40px;
    			}
+		.j-team-a a {
+			font-size: 40px;
+		}
+		.email-us p {
+			margin-left: 0px;
+			font-size: 98px;
+		}
 
    		.home-text b {
    			font-size: 80px;
@@ -70,7 +77,10 @@ p {
 
    		.r-date p {
    			font-size: 25px;
-   		}
+  }
+   		.c-l-j-team {
+    margin-right: 60px;
+}
    		
    	}
 
@@ -82,14 +92,23 @@ p {
 			background-image: url("../img/l-bg-m.jpg");
 			background-size: 200%;
 			background-position-x: 1605px;
-			background-position-y: 160px; 
+			background-position-y: -40px; 
 		}
-
+.c-l-j-team {
+    margin-right: 60px;
+}
    		.home-text b {
    			font-size: 90px;
    			}
 
-   		
+		.email-us p {
+			margin-left: 0px;
+			font-size: 98px;
+		}
+   		.j-team-a a {
+			font-size: 40px;
+		}
+ 
 	}
 
 @media only screen
@@ -100,13 +119,24 @@ p {
 			background-image: url("../img/l-bg-m.jpg");
 			background-size: 200%;
 			background-position-x: center;
-			background-position-y: 50px; 
+			background-position-y: -40px; 
 		}
-
+.c-l-j-team {
+    margin-right: 60px;
+}
+		.email-us p {
+			margin-left: 0px;
+			font-size: 98px;
+		}
    		.home-text b {
    			font-size: 100px;
    			}
 
+   		.j-team-a a {
+			font-size: 40px;
+		}
+ 
+   		
    		
 	}
 
@@ -120,7 +150,16 @@ p {
 			background-position-x: center;
 			background-position-y: -40px; 
 		}
-
+.c-l-j-team {
+    margin-right: 60px;
+}
+   		.j-team-a a {
+			font-size: 40px;
+		}
+		.email-us p {
+			margin-left: 0px;
+			font-size: 98px;
+		}
    		.home-text b {
    			font-size: 110px;
    			}
