@@ -85,6 +85,9 @@ body {
    		.j-team-a a {
 			font-size: 40px;
 		}
+		.home-text {
+			margin-left: 0px;
+		}
    	}
 
 @media only screen
@@ -101,6 +104,9 @@ body {
    		.r-date p {
    			font-size: 45px;
    		}
+		.home-text {
+			margin-left: 0px;
+		}
 
    		.logo img {
 			margin-left: 80%;
@@ -134,6 +140,9 @@ body {
    		.home-text b {
    			font-size: 90px;
    			}
+		.home-text {
+			margin-left: 0px;
+		}
 		.j-team-a a {
 			font-size: 40px;
 		}
@@ -151,6 +160,9 @@ body {
 			background-position-y: -40px; 
 		}
 
+		.home-text {
+			margin-left: 0px;
+		}
    		.home-text b {
    			font-size: 110px;
    			}
