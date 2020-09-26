@@ -55,10 +55,11 @@ p {
 
 @media only screen
 	and (min-device-width: 320px)
-	and (max-device-width: 1050px) {
+	and (max-device-width: 900px) {
 
 		body {
-			background-size: 232%;
+			background-image: url("../img/l-bg-m.jpg");
+			background-size: 200%;
 	   		background-position-x: center;
    			background-position-y: 209px;
    			}
@@ -78,7 +79,8 @@ p {
 	and (max-device-width: 770px) {
 
 		body {
-			background-size: 240%;
+			background-image: url("../img/l-bg-m.jpg");
+			background-size: 200%;
 			background-position-x: 1605px;
 			background-position-y: 160px; 
 		}
@@ -95,7 +97,8 @@ p {
 	and (max-device-width: 770px) {
 
 		body {
-			background-size: 190%;
+			background-image: url("../img/l-bg-m.jpg");
+			background-size: 200%;
 			background-position-x: center;
 			background-position-y: 50px; 
 		}
@@ -112,7 +115,8 @@ p {
 	and (max-device-width: 1025px) {
 
 		body {
-			background-size: 145%;
+			background-image: url("../img/l-bg-m.jpg");
+			background-size: 200%;
 			background-position-x: center;
 			background-position-y: -40px; 
 		}
