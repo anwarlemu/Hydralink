@@ -1,0 +1,101 @@
+p {
+	font-family: PT Serif;
+	}
+
+
+body {
+	margin: 0px;
+	background-image: url("../img/l-bg.png");
+	background-size: 100% ;
+	margin-left: 50px;
+}
+
+.home-text b {
+	font-family: pt serif;
+	font-size: 50px;
+	line-height: 1em;
+	text-transform: none;
+	letter-spacing: -.01em;
+	font-weight: lighter;
+	font-style: normal;
+	color: #fff;
+	margin-right: 300px;
+}
+
+.logo img {
+	height: 120px;
+	width: 120px;
+}
+
+/* Media Queries*/
+
+@media only screen
+	and (min-device-width: 320px)
+	and (max-device-width: 1050px) {
+
+		body {
+			background-size: 232%;
+	   		background-position-x: center;
+   			background-position-y: 209px;
+   			}
+
+   		.home-text b {
+   			font-size: 100px;
+   			}
+
+   		.r-date p {
+   			font-size: 30px;
+   		}
+   		
+   	}
+
+@media only screen
+	and (min-device-width: 375px)
+	and (max-device-width: 770px) {
+
+		body {
+			background-size: 240%;
+			background-position-x: 1605px;
+			background-position-y: 160px; 
+		}
+
+   		.home-text b {
+   			font-size: 100px;
+   			}
+
+   		
+	}
+
+@media only screen
+	and (min-device-width: 430px)
+	and (max-device-width: 770px) {
+
+		body {
+			background-size: 190%;
+			background-position-x: center;
+			background-position-y: 50px; 
+		}
+
+   		.home-text b {
+   			font-size: 110px;
+   			}
+
+   		
+	}
+
+@media only screen
+	and (min-device-width: 775px)
+	and (max-device-width: 1025px) {
+
+		body {
+			background-size: 145%;
+			background-position-x: center;
+			background-position-y: -40px; 
+		}
+
+   		.home-text b {
+   			font-size: 130px;
+   			}
+
+   		
+	}
