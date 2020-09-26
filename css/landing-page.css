@@ -32,7 +32,7 @@ body {
 
 .home-text b {
 	font-family: pt serif;
-	font-size: 120px;
+	font-size: 300px;
 	line-height: 1em;
 	text-transform: none;
 	letter-spacing: -.01em;
@@ -72,7 +72,7 @@ body {
    			}
 
    		.home-text b {
-   			font-size: 180px;
+   			font-size: 280px;
    			}
 
    		.r-date p {
@@ -106,7 +106,7 @@ body {
 			margin-left: 80%;
 		}
    		.home-text b {
-   			font-size: 180px;
+   			font-size: 280px;
    			}
 		.j-team-a a {
 			font-size: 40px;
