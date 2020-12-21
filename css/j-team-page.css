@@ -11,19 +11,19 @@ p {
 
 .email-us p {
 	color: black;
-	font-size: 62px;
+	font-size: 60px;
 	text-align: right;
 	margin-left: 730px;
 }
 
 .e-contact p {
-	color: black;
+	color: #000;
 	font-size: 28px;
 	text-align: right;
 }
 
 .c-l-j-team {
-	margin-right: 100px;
+	margin-right: 90px;
 }
 
 .logo img {
@@ -33,15 +33,15 @@ p {
 }
 
 .j-team-a button {
-	background-color: lightblue;
+	background-color: black;
     border: none;
-    padding: 6px 19px;
+    padding: 10px 25px;
     border-radius: 40px;
    
 }
 
 .j-team-a a {
-	color: black;
+	color: white;
 	font-size: 17px;
 	text-decoration: none;
 }
